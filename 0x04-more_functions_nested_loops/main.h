@@ -1,6 +1,7 @@
 #ifndef F00_H_
 #define F00_H_
 
+
 int _isupper(int c);
 
 int _isdigit(int c);
