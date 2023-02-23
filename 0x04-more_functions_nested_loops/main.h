@@ -1,3 +1,6 @@
+#ifndef F00_H_
+#define F00_H_
+
 int _isupper(int c);
 
 int _isdigit(int c);
@@ -22,3 +25,4 @@ void print_number(int n);
 
 int _putchar(char c);
 
+#endif
